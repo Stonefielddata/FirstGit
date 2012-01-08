@@ -1,1 +1,8 @@
-sadfasdfsdf
+sadfas
+
+ INSERT INTO ik_loc_plz (loc_plz_id,plz,location_id,district_id,state_id,country) VALUES (29206,8041,25596,0,51,3);
+INSERT INTO ik_loc_plz (loc_plz_id,plz,location_id,district_id,state_id,country) VALUES (29207,8042,25596,0,51,3);
+INSERT INTO ik_loc_plz (loc_plz_id,plz,location_id,district_id,state_id,country) VALUES (29208,8044,25596,0,51,3);
+
+
+dfsdf
